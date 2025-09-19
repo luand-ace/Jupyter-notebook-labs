@@ -1,1 +1,1 @@
-This are my little Jupyte Notebook labs and practices
+This are my little Jupyter Notebook labs and practices
